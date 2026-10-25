@@ -1,0 +1,26 @@
+# Large firmware archives
+*.zip
+*.tgz
+*.tar.gz
+*.7z
+*.rar
+
+# Binary firmware and partitions
+*.img
+*.bin
+*.elf
+*.mbn
+
+# Device backups
+*.bak
+*.qcn
+*.raw
+
+# Sensitive dumps
+dumps/
+backups/
+
+# Temporary files
+*.tmp
+*.log
+__pycache__/
